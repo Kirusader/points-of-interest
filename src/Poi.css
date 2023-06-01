@@ -1,0 +1,18 @@
+/** @format */
+
+.heading {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.table {
+  margin: 2rem 0;
+}
+
+thead th {
+  font-weight: bold;
+}
+
+tbody tr:hover {
+  background-color: #f5f5f5;
+}
