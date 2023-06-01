@@ -1,4 +1,5 @@
 /** @format */
+// this is about page
 import React from "react";
 import styled from "styled-components";
 import manavator from "./photo/manavator.png";
